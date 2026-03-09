@@ -4,6 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+snowflake-snowpark-python = "<2.0.0,>=1.5.0"
+snowflake-core = "*"
 
 [dev-packages]
 
